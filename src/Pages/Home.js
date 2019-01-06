@@ -16,6 +16,5 @@ export default class Home extends Component {
 const styles = StyleSheet.create({
     mainStyle: {
         flex: 1,
-        // backgroundColor:'wheat'
     }
 });

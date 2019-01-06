@@ -21,7 +21,7 @@ export default class Item extends Component {
                     renderItem={({item}) =>
                         <TouchableHighlight underlayColor='rgba(0,0,0,.1)' onPress={Alerti}>
                             
-                            <View style={styles.item}>
+                                                <View style={styles.item}>
                                 <View style={styles.itemWrapper}>
                                     <View style={styles.leftSide}>
                                         <Image
